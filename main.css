@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.grid{
+  display: flex;
+  flex-wrap: wrap;
+  width:400px;
+  height: 300px;
+}
