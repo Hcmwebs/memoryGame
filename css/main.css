@@ -25,7 +25,9 @@ body {
 h3 {
   font-size: 30px;
   margin-bottom: 20px;
+  padding: 8px 16px;
   color: white;
+  background-color: rgba(0, 0, 0, 0.7);
 }
 
 .grid {
